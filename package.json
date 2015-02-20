@@ -1,6 +1,6 @@
 {
   "name": "icr-main-bower-files",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Load main bower js and css files",
   "keywords": [
     "bower"
